@@ -4,7 +4,7 @@ array.each{|num|new_array.push(num*2)}
 
  
 end 
- new_array
+square_array(array)
  
  end 
  
